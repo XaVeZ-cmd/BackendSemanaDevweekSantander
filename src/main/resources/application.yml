@@ -6,7 +6,7 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    uri: postgres://vhsppnedzovlsf:40a594fe17764f8d1a745af5a51d8d61f3e37477e0731e2e19e16c50ee15131f@ec2-35-170-85-206.compute-1.amazonaws.com:5432/de1kpl0717j6g5
+    url: postgres://vhsppnedzovlsf:40a594fe17764f8d1a745af5a51d8d61f3e37477e0731e2e19e16c50ee15131f@ec2-35-170-85-206.compute-1.amazonaws.com:5432/de1kpl0717j6g5
     username: vhsppnedzovlsf
     password: 40a594fe17764f8d1a745af5a51d8d61f3e37477e0731e2e19e16c50ee15131f
 
