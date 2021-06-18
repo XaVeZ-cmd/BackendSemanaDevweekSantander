@@ -10,11 +10,11 @@ spring:
     username: vhsppnedzovlsf
     password: 40a594fe17764f8d1a745af5a51d8d61f3e37477e0731e2e19e16c50ee15131f
   jpa:
-  show-sql: true
-  database-platform: org.hibernate.dialect.PostgreSQLDialect
-  generate-ddl: true
-  hibernate:
-    ddl-auto: none
+    show-sql: true
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    generate-ddl: true
+    hibernate:
+      ddl-auto: none
 
 application:
   description: Projeto criado para o bootcamp DIO - Santander
